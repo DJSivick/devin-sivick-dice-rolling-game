@@ -1,0 +1,14 @@
+.bold-white-text {
+    color: #fff; /* White text color */
+    font-weight: bold; /* Bold font weight */
+  }
+
+  .lost{
+    color: red;
+    font-weight: bolder;
+  }
+
+  .won{
+    color: green;
+    font-weight: bolder;
+  }

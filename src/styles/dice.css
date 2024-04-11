@@ -1,0 +1,4 @@
+.disabled {
+    opacity: 0.5; /* Make the element semi-transparent */
+    cursor: not-allowed; /* Change the mouse cursor to indicate that the element is disabled */
+  }

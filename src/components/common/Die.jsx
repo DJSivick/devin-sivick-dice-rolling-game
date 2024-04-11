@@ -1,10 +1,9 @@
 import React from 'react'
+import "../../styles/dice.css"
 
-const Die = ({face, freeze}) => {
+const Die = ({frozen, face, onClick}) => {
   return (
-    <button disabled={freeze}>
-        {face}
-    </button>
+    <img src={`/images/dice${face}.svg`} onClick={onClick} alt={`Dice ${face}`} className={frozen && "disabled"}/>
   )
 }
 
