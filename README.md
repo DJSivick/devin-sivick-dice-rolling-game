@@ -38,8 +38,3 @@ To run this app locally, follow these steps:
 - Click on individual dice to freeze/unfreeze them.
 - You have 3 rolls to try to get all dice to show the same face number.
 - If you get all dice to show the same face number within 3 rolls, you win!
-
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
